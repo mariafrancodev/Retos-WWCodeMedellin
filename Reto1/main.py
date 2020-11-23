@@ -10,5 +10,3 @@ def bubleSort(array):
 
 array = [6, 5, 3, 1, 8, 7, 2, 4]
 print(bubleSort(array))
-print("hola")
-
